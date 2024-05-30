@@ -1,18 +1,8 @@
 
 💖｜央视,#genre#
 CCTV1,http://cfss.cc/api/ysp/cctv1.m3u8
-CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
-CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,http://cfss.cc/api/ysp/cctv13.m3u8
-CCTV13,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
-CCTV13,http://cfss.cc/ds/bst.php?id=Cf-14
-CCTV4,http://cfss.cc/api/ysp/cctv4.m3u8
-CCTV4,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
-CCTV4,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw3805527088_-1274597418/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130309&ContentId=265667639&timezone=UTC&mtv_session=2dd2ab7bfb6b74ffa7cc9e8d7b6e5ed2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d34ff8f1c5a38b07fa8b2d3d15e755a2
-CCTV4,http://cfss.cc/api/ysp/cctv4k.m3u8
-CCTV88,rtsp://182.37.192.46:554/PLTV/88888888/224/3221226103/10000100000000060000000002902003_0.smil
+
+CCTV88,https://v.gsuus.com/play/9b61wZQa/index.m3u8
 
 
 💟｜卫视,#genre#
